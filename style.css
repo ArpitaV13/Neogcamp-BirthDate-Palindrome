@@ -6,16 +6,14 @@ body{
     background-color:#5B21B6;
     color:white;
 }
-.content{
-    border:1px solid black;
 
-}
+
 .main{
     text-align:left;
     float:left;
     max-width: 20rem;
     margin:4rem;
-    font-size:2.5rem;
+    font-size:3rem;
     
 }
 
@@ -23,7 +21,7 @@ body{
     float:right;
     margin:4rem;
 }
-button{
+a{
     margin-top:1rem;
     padding:0.5rem;
     color:#BE185D;
@@ -33,7 +31,11 @@ button{
     border-radius: 0.5rem;
     background-color: #A78BFA;
     cursor:pointer;
+    text-decoration: none;
     
+}
+.main-section{
+
 }
 
 
