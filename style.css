@@ -2,27 +2,34 @@
     margin:0;
     padding:0;
 }
+html{
+    scroll-behavior: smooth;
+}
+.front{
+    min-height:100vh;
+}
+
 body{
-    background-color:#5B21B6;
+    
     color:white;
 }
-
-
-.main{
-    text-align:left;
-    float:left;
-    max-width: 20rem;
-    margin:4rem;
-    font-size:3rem;
-    
+.front{
+    background-color:#5B21B6;
+}
+.heading{
+    text-align:center;
+    font-size:4rem;
+    padding-top:20vh;
+    margin-bottom:2rem;
+} 
+.heading p{
+    font-size:1.2rem;
 }
 
-.image{
-    float:right;
-    margin:4rem;
-}
-a{
-    margin-top:1rem;
+ 
+#check-link {
+    margin-top:2rem;
+    margin-left:45vw;
     padding:0.5rem;
     color:#BE185D;
     font-weight:bolder;
@@ -33,10 +40,7 @@ a{
     cursor:pointer;
     text-decoration: none;
     
-}
-.main-section{
-
-}
+} 
 
 
 
