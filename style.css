@@ -15,7 +15,8 @@ body{
     color:white;
 }
 .front{
-    background-color:#5B21B6;
+    background-image:url(bg.jpg);
+    background-size: cover;
 }
 .heading{
     text-align:center;
@@ -32,12 +33,12 @@ body{
     margin-top:2rem;
     margin-left:45vw;
     padding:0.5rem;
-    color:#BE185D;
+    color:white;
     font-weight:bolder;
-    border:2px solid #5B21B6;
+    border:2px solid #BE185D;
     font-size:1.2rem;
     border-radius: 0.5rem;
-    background-color: #A78BFA;
+    background-color:#BE185D;
     cursor:pointer;
     text-decoration: none;
     
