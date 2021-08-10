@@ -10,7 +10,7 @@ html{
 }
 
 
-body{
+.front{
     
     color:white;
 }
@@ -43,6 +43,44 @@ body{
     text-decoration: none;
     
 } 
+#main-section{
+    min-height:70vh;
+    
+
+}
+.container{
+    margin:30vh auto;
+    text-align:center;
+    
+    max-width:70vw;
+
+}
+.content{
+    font-size:2rem;
+    font-weight:bold;
+}
+button{
+    display:block;
+    margin:2rem auto;
+
+    padding:0.5rem;
+    color:white;
+    font-weight:bolder;
+    border:2px solid #BE185D;
+    font-size:1.2rem;
+    border-radius: 0.5rem;
+    background-color:#BE185D;
+    cursor:pointer;
+
+}
+input{
+    display:block;
+    margin:2rem auto;
+    
+}
+#paln-date{
+    padding:0.5rem;
+}
 
 
 
