@@ -82,6 +82,11 @@ input{
     padding:0.5rem;
 }
 
+#wait-img{
+    height:300px;
+    width:400px;
+    display:none;
+}
 
 
 
