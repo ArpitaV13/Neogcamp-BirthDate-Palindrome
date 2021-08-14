@@ -145,6 +145,7 @@ var img=document.getElementById("wait-img");
 
 function clickHandler(){
 
+   
     var bdayStr=inputDate.value;
     if(bdayStr!=""){
         var listOfDate=bdayStr.split("-");
