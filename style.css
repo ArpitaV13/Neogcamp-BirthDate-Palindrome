@@ -88,5 +88,11 @@ input{
     display:none;
 }
 
+.output{
+    font-size:1.5rem;
+    color:#BE185D;  
+    font-weight: bold;
+}
+
 
 
